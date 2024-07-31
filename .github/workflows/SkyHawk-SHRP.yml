@@ -20,7 +20,7 @@ on:
       DEVICE_TREE:
         description: 'Custom Recovery Tree' # Your already made Device Tree for TWRP
         required: true
-        default: 'https://github.com/AspectPower/xiaomi_tapas-recovery_tree' 
+        default: 'https://github.com/BaranAspect-Development/device_xiaomi_sm6225-recovery' 
       DEVICE_TREE_BRANCH:
         description: 'Custom Recovery Tree Branch' # Your Device Tree Branch, make sure it's right.
         required: true
